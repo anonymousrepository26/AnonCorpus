@@ -8,7 +8,7 @@ The dataset is publicly available at the following link:
 ## 📌 Introduction
 This version of the [anonymised corpus name] builds on the original release by addressing its main limitations and adding key enhancements to improve usability and research value. The main differences between the original version (V1) and the updated version (V2) are summarised below:
 
-![SPC Comparison](https://github.com/user-attachments/assets/a4763b36-d939-4ef8-b0e5-7bffdef65177)
+![Corpus Comparison](https://github.com/user-attachments/assets/a4763b36-d939-4ef8-b0e5-7bffdef65177)
 
 
 The dataset now includes:
