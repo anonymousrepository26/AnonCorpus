@@ -6,7 +6,11 @@ The dataset is publicly available at the following link:
 [Access the dataset](https://drive.google.com/drive/folders/1Za-OT4mgLBEDL5zy1vf7Gn72lSQKew25?usp=sharing)
 
 ## 📌 Introduction
-This version of the [anonymised corpus name] builds on the original release by addressing its main limitations and adding key enhancements to improve usability and research value.
+This version of the [anonymised corpus name] builds on the original release by addressing its main limitations and adding key enhancements to improve usability and research value. The main differences between the original version (V1) and the updated version (V2) are summarised below:
+
+![SPC Comparison](https://github.com/user-attachments/assets/a4763b36-d939-4ef8-b0e5-7bffdef65177)
+
+
 The dataset now includes:
 * Annotations from both English and French-speaking raters, offering perspectives across languages and cultures.
 * A standardized experimental protocol to support reproducible results.
